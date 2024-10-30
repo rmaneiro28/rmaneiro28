@@ -1,5 +1,8 @@
-## Hi I'm Rúbel Maneiro 👋
-# 💻 Tech Stack:
+ ## 👋 ¡Hi! I'm Rúbel Maneiro
+
+Soy estudiante de Ingeniería en Sistemas, actualmente en el 7mo Semestre. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
+
+# 💻 TechStack
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,10 +16,12 @@
 
 ### Data Analysis
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ### Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ### Hosting
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
@@ -39,10 +44,4 @@ Este proyecto es una plataforma web para la administración de ventas, clientes,
 
 ### [ Tienda Online ](https://github.com/rmaneiro28/nike-project)<br>
 Este proyecto consiste en una tienda online con manejo de inventario utilizando base de datos, control y gestion de ventas por WhatsApp para culminar la venta
-
-
-### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
-
 </p>
