@@ -1,8 +1,8 @@
- ## 👋 ¡Hi! I'm Rúbel Maneiro
+ ## 👋 ¡Hola! Soy Rúbel Maneiro
 
-I am a Systems Engineering student, currently in the 7th semester. I am expanding my knowledge in both front-end and back-end development. I love learning and building something new, productive, innovative and creative.
+Estudiante de Ingeniería de Sistemas y curso el octavo semestre. Estoy ampliando mis conocimientos en desarrollo front-end y back-end. Me apasiona aprender y crear algo nuevo, productivo, innovador y creativo.
 
-#### Portfolio 
+#### Portafolio 
 🔗 [https://rmaneiro.vercel.app/](https://rmaneiro.vercel.app/)
 # 💻 TechStack
 ### Languages
